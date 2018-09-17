@@ -1,0 +1,10 @@
+Package: packagecasnit
+Type: Package
+Title: Calculates Euclidean & Dijkstra
+Version: 1.0
+Date: 2018-09-17
+Author: CasNit <casnit@gmail.com>
+Maintainer: CasNit <casnit@gmail.com>
+Description: Calculates Euclidean i.e. GCD for two numbers & Dijkstra i.e. shortest distance between node and graph
+License: GPL-3
+RoxygenNote: 6.1.0
